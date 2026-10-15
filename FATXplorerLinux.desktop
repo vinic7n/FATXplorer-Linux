@@ -1,0 +1,9 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Type=Application
+Name=Xbox Drive Manager
+Comment=Mount and browse Xbox 360 storage
+Exec=python3 /home/vinicius/XboxDriveManager/xbox_drive_manager.py
+Icon=drive-removable-media
+Terminal=false
+Categories=Utility;FileTransfer;
