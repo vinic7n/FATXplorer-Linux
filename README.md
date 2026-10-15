@@ -1,4 +1,4 @@
-# Xbox Drive Manager
+# FATXPlorer-Linux
 
 A Linux GTK 4 app for mounting an attached Xbox 360 FATX/XTAF volume and opening it in the desktop file manager. It scans SATA and removable USB drives, starts the FUSE mount, and provides a safe unmount button.
 
